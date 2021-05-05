@@ -1,4 +1,2 @@
 # ScreenShot
-![](Docs/screenshot.PNG)
-
-un cambio en el proyecto
+![](docs/screenshot.PNG)
